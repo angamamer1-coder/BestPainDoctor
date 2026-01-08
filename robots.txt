@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://best-pain-doctor.vercel.app/sitemap.xml
